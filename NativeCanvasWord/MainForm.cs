@@ -10,7 +10,7 @@ public partial class MainForm : Form
 
         Text = "NativeCanvasWord";
 
-        Width = 1600;
+        Width = 1200;
 
         Height = 1000;
 
